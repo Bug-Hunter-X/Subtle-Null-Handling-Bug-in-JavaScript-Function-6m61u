@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in JavaScript related to null handling. The `foo` function is designed to add two numbers, but it unexpectedly returns `null` if either of its arguments is `null`. The solution showcases how to address this by using a stricter null check or by utilizing optional chaining and the nullish coalescing operator.
